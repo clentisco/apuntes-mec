@@ -8,8 +8,8 @@ Este documento aborda cómo la computación en el borde de la red y la definici�
 El contenido de estos apuntes incluye:
 
 1. **Arquitectura de Gestión de Aplicaciones en el Borde de la Red (MEC)**:
-   - Integración de MEC en las redes 5G.
-   - Requisitos técnicos como retardo, ancho de banda y tolerancia a pérdidas.
+   - Descripción de los elementos de la arquitectura.
+   - Indicaciones sobre la integración de las plataformas de MEC en las redes 5G.
 
 2. **Relación entre MEC y Virtualización de Funciones de Red (NFV)**:
    - Similitudes entre ambas arquitecturas.
@@ -31,7 +31,6 @@ Puedes descargar los apuntes completos en formato PDF desde el siguiente enlace:
 
 ## Público Destinatario
 
-- Estudiantes del Máster Universitario en Ingeniería de Telecomunicación.
 - Profesionales interesados en tecnologías de redes definidas por software y virtualización.
 - Investigadores y desarrolladores en proyectos relacionados con MEC, NFV y SDN.
 
@@ -41,11 +40,10 @@ Los apuntes incluyen un análisis detallado del proyecto **CORD (Central Office 
 
 ## Referencias
 
-1. *Multi-access Edge Computing* (MEC) en redes 5G.
-2. Arquitecturas de Virtualización de Funciones de Red (NFV).
-3. Proyecto CORD como caso de estudio práctico.
+1. Estándares de Multi-access Edge Computing (MEC) y redes 5G.
+2. Estándares de Arquitecturas de Virtualización de Funciones de Red (NFV).
+3. Documentación del proyecto CORD como caso de estudio práctico.
 
 ---
 
 ¡Gracias por tu interés en estos materiales! Si encuentras este repositorio útil, no dudes en dejar una estrella ⭐ en GitHub.
-Este README incluye toda la información clave y proporciona un enlace directo para que los usuarios puedan descargar el documento. ¿Quieres que personalice algo más?
